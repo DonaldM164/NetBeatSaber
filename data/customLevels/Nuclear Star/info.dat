@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "NUCLEAR-STAR",
+  "_songSubName": "",
+  "_songAuthorName": "Camellia",
+  "_levelAuthorName": "Hexagonial",
+  "_beatsPerMinute": 199,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 94.06700134277344,
+  "_previewDuration": 8.449999809265137,
+  "_songFilename": "NUCLEAR.egg",
+  "_coverImageFilename": "Nuclear.jpg",
+  "_environmentName": "TriangleEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

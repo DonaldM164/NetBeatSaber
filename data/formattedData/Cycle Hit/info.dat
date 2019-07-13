@@ -1,0 +1,60 @@
+{
+    "_shuffle": 0,
+    "_customData": {
+        "_contributors": [],
+        "_customEnvironment": "",
+        "_customEnvironmentHash": ""
+    },
+    "_coverImageFilename": "cycle_hit.jpg",
+    "_beatsPerMinute": 175,
+    "_environmentName": "NiceEnvironment",
+    "_songAuthorName": "KASAI HARCORES",
+    "_shufflePeriod": 0.5,
+    "_previewDuration": 12.395000457763672,
+    "_version": "2.0.0",
+    "_difficultyBeatmapSets": [
+        {
+            "_difficultyBeatmaps": [
+                {
+                    "_beatmapFilename": "Expert.dat",
+                    "_customData": {
+                        "_editorOffset": -40,
+                        "_information": [],
+                        "_editorOldOffset": -40,
+                        "_requirements": [],
+                        "_difficultyLabel": "",
+                        "_warnings": [],
+                        "_suggestions": []
+                    },
+                    "_noteJumpStartBeatOffset": 0,
+                    "_difficulty": "Expert",
+                    "_difficultyRank": 7,
+                    "_noteJumpMovementSpeed": 15
+                },
+                {
+                    "_beatmapFilename": "ExpertPlus.dat",
+                    "_customData": {
+                        "_editorOffset": -40,
+                        "_information": [],
+                        "_editorOldOffset": -40,
+                        "_requirements": [],
+                        "_difficultyLabel": "",
+                        "_warnings": [],
+                        "_suggestions": []
+                    },
+                    "_noteJumpStartBeatOffset": 0,
+                    "_difficulty": "ExpertPlus",
+                    "_difficultyRank": 9,
+                    "_noteJumpMovementSpeed": 14
+                }
+            ],
+            "_beatmapCharacteristicName": "Standard"
+        }
+    ],
+    "_previewStartTime": 258.4419860839844,
+    "_songName": "Cycle Hit",
+    "_songTimeOffset": 0,
+    "_levelAuthorName": "Various Mappers",
+    "_songFilename": "cycle_hit.egg",
+    "_songSubName": ""
+}

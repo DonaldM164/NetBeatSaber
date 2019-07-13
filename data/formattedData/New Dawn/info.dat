@@ -1,0 +1,33 @@
+{
+    "_difficultyBeatmapSets": [
+        {
+            "_beatmapCharacteristicName": "Standard",
+            "_difficultBeatmaps": [
+                {
+                    "_difficulty": "Expert",
+                    "_beatmapFilename": "Expert.json",
+                    "_difficultyRank": 4,
+                    "_customData": {
+                        "_editorOffset": 0,
+                        "_information": [],
+                        "_editorOldOffset": 0,
+                        "_requirements": [],
+                        "_difficultyLabel": "",
+                        "_warnings": [],
+                        "_suggestions": []
+                    }
+                }
+            ]
+        }
+    ],
+    "_coverImagePath": "cover.jpg",
+    "_previewStartTime": 12,
+    "_beatsPerMinute": 120,
+    "_songName": "New Dawn",
+    "_environmentName": "TriangleEnvironment",
+    "_authorName": "Rustic",
+    "_songFilename": "song.ogg",
+    "_songSubName": "Prototyperaptor",
+    "_previewDuration": 10,
+    "_version": "1.0.0"
+}

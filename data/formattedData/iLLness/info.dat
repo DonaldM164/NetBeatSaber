@@ -1,0 +1,92 @@
+{
+    "_shuffle": 0,
+    "_customData": {
+        "_contributors": [],
+        "_customEnvironment": "",
+        "_customEnvironmentHash": ""
+    },
+    "_coverImageFilename": "cover.jpg",
+    "_beatsPerMinute": 280,
+    "_environmentName": "DefaultEnvironment",
+    "_songAuthorName": "Chart by Mystikmol",
+    "_shufflePeriod": 0.5,
+    "_previewDuration": 10,
+    "_version": "2.0.0",
+    "_difficultyBeatmapSets": [
+        {
+            "_difficultyBeatmaps": [
+                {
+                    "_beatmapFilename": "Normal.dat",
+                    "_customData": {
+                        "_editorOffset": 124,
+                        "_information": [],
+                        "_editorOldOffset": 124,
+                        "_requirements": [],
+                        "_difficultyLabel": "",
+                        "_warnings": [],
+                        "_suggestions": []
+                    },
+                    "_noteJumpStartBeatOffset": 0,
+                    "_difficulty": "Normal",
+                    "_difficultyRank": 3,
+                    "_noteJumpMovementSpeed": 12
+                },
+                {
+                    "_beatmapFilename": "Hard.dat",
+                    "_customData": {
+                        "_editorOffset": 124,
+                        "_information": [],
+                        "_editorOldOffset": 124,
+                        "_requirements": [],
+                        "_difficultyLabel": "",
+                        "_warnings": [],
+                        "_suggestions": []
+                    },
+                    "_noteJumpStartBeatOffset": 0,
+                    "_difficulty": "Hard",
+                    "_difficultyRank": 5,
+                    "_noteJumpMovementSpeed": 12
+                },
+                {
+                    "_beatmapFilename": "Expert.dat",
+                    "_customData": {
+                        "_editorOffset": 124,
+                        "_information": [],
+                        "_editorOldOffset": 124,
+                        "_requirements": [],
+                        "_difficultyLabel": "",
+                        "_warnings": [],
+                        "_suggestions": []
+                    },
+                    "_noteJumpStartBeatOffset": 0,
+                    "_difficulty": "Expert",
+                    "_difficultyRank": 7,
+                    "_noteJumpMovementSpeed": 18
+                },
+                {
+                    "_beatmapFilename": "ExpertPlus.dat",
+                    "_customData": {
+                        "_editorOffset": 124,
+                        "_information": [],
+                        "_editorOldOffset": 124,
+                        "_requirements": [],
+                        "_difficultyLabel": "",
+                        "_warnings": [],
+                        "_suggestions": []
+                    },
+                    "_noteJumpStartBeatOffset": 0,
+                    "_difficulty": "ExpertPlus",
+                    "_difficultyRank": 9,
+                    "_noteJumpMovementSpeed": 18
+                }
+            ],
+            "_beatmapCharacteristicName": "Standard"
+        }
+    ],
+    "_previewStartTime": 20,
+    "_songName": "iLLness LiLin ",
+    "_songTimeOffset": 0,
+    "_levelAuthorName": "Kaneko Chiharu",
+    "_songFilename": "iLLness LiLin .egg",
+    "_songSubName": ""
+}

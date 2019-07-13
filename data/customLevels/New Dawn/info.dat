@@ -1,0 +1,33 @@
+{
+  "_version": "1.0.0",
+  "_songName":"New Dawn",
+  "_songSubName":"Prototyperaptor",
+  "_authorName":"Rustic",
+  "_songFilename":"song.ogg",
+  "_beatsPerMinute":120,
+  "_previewStartTime":12,
+  "_previewDuration":10,
+  "_coverImagePath":"cover.jpg",
+  "_environmentName":"TriangleEnvironment",
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank":4,
+          "_beatmapFilename": "Expert.json",
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
