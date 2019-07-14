@@ -20,3 +20,6 @@ A song, which can be decomposed into many different parts including (but not lim
 
     
         
+=======
+NetBeatSaber is a recurrent nueral network trained to generate beatmaps for the popular VR Game BeatSaber. 
+>>>>>>> 27094e7ee4944c5d0f95ef355c9d801781f41b9e
