@@ -1,44 +1,44 @@
 {
-    "_shuffle": 0,
-    "_customData": {
-        "_contributors": [],
-        "_customEnvironment": "",
-        "_customEnvironmentHash": ""
-    },
-    "_coverImageFilename": "cover.jpg",
-    "_beatsPerMinute": 222.22,
-    "_environmentName": "NiceEnvironment",
-    "_songAuthorName": "v2",
-    "_shufflePeriod": 0.5,
-    "_previewDuration": 10,
     "_version": "2.0.0",
     "_difficultyBeatmapSets": [
         {
             "_difficultyBeatmaps": [
                 {
-                    "_beatmapFilename": "ExpertPlus.dat",
+                    "_noteJumpStartBeatOffset": 0,
+                    "_difficulty": "ExpertPlus",
                     "_customData": {
+                        "_warnings": [],
+                        "_suggestions": [],
+                        "_difficultyLabel": "",
                         "_editorOffset": 0,
                         "_information": [],
                         "_editorOldOffset": 0,
-                        "_requirements": [],
-                        "_difficultyLabel": "",
-                        "_warnings": [],
-                        "_suggestions": []
+                        "_requirements": []
                     },
-                    "_noteJumpStartBeatOffset": 0,
-                    "_difficulty": "ExpertPlus",
-                    "_difficultyRank": 9,
-                    "_noteJumpMovementSpeed": 16
+                    "_noteJumpMovementSpeed": 16,
+                    "_beatmapFilename": "ExpertPlus.dat",
+                    "_difficultyRank": 9
                 }
             ],
             "_beatmapCharacteristicName": "Standard"
         }
     ],
-    "_previewStartTime": 12,
-    "_songName": "Freedom Dive",
-    "_songTimeOffset": 0,
-    "_levelAuthorName": "Roffle",
     "_songFilename": "Freedom Dive.egg",
-    "_songSubName": ""
+    "_customData": {
+        "_contributors": [],
+        "_customEnvironmentHash": "",
+        "_customEnvironment": ""
+    },
+    "_environmentName": "NiceEnvironment",
+    "_songAuthorName": "v2",
+    "_songName": "Freedom Dive",
+    "_levelAuthorName": "Roffle",
+    "_songSubName": "",
+    "_songTimeOffset": 0,
+    "_previewDuration": 10,
+    "_shuffle": 0,
+    "_previewStartTime": 12,
+    "_shufflePeriod": 0.5,
+    "_beatsPerMinute": 222.22,
+    "_coverImageFilename": "cover.jpg"
 }

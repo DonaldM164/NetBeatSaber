@@ -1,49 +1,42 @@
 {
-    "_shuffle": 0.0,
-    "_coverImageFilename": "cover.png",
-    "_beatsPerMinute": 166.0,
-    "_environmentName": "DefaultEnvironment",
-    "_songAuthorName": "Jaroslav Beck",
-    "_shufflePeriod": 1.0,
-    "_previewDuration": 12.0,
     "_version": "2.0.0",
     "_difficultyBeatmapSets": [
         {
             "_difficultyBeatmaps": [
                 {
                     "_difficulty": "Easy",
-                    "_beatmapFilename": "Easy.dat",
-                    "_difficultyRank": 1,
+                    "_noteJumpMovementSpeed": 0.0,
                     "_noteJumpStartBeatOffset": 0,
-                    "_noteJumpMovementSpeed": 0.0
+                    "_beatmapFilename": "Easy.dat",
+                    "_difficultyRank": 1
                 },
                 {
                     "_difficulty": "Normal",
-                    "_beatmapFilename": "Normal.dat",
-                    "_difficultyRank": 3,
+                    "_noteJumpMovementSpeed": 0.0,
                     "_noteJumpStartBeatOffset": 0,
-                    "_noteJumpMovementSpeed": 0.0
+                    "_beatmapFilename": "Normal.dat",
+                    "_difficultyRank": 3
                 },
                 {
                     "_difficulty": "Hard",
-                    "_beatmapFilename": "Hard.dat",
-                    "_difficultyRank": 5,
+                    "_noteJumpMovementSpeed": 0.0,
                     "_noteJumpStartBeatOffset": 0,
-                    "_noteJumpMovementSpeed": 0.0
+                    "_beatmapFilename": "Hard.dat",
+                    "_difficultyRank": 5
                 },
                 {
                     "_difficulty": "Expert",
-                    "_beatmapFilename": "Expert.dat",
-                    "_difficultyRank": 7,
+                    "_noteJumpMovementSpeed": 0.0,
                     "_noteJumpStartBeatOffset": 0,
-                    "_noteJumpMovementSpeed": 0.0
+                    "_beatmapFilename": "Expert.dat",
+                    "_difficultyRank": 7
                 },
                 {
                     "_difficulty": "ExpertPlus",
-                    "_beatmapFilename": "ExpertPlus.dat",
-                    "_difficultyRank": 9,
+                    "_noteJumpMovementSpeed": 0.0,
                     "_noteJumpStartBeatOffset": 1,
-                    "_noteJumpMovementSpeed": 0.0
+                    "_beatmapFilename": "ExpertPlus.dat",
+                    "_difficultyRank": 9
                 }
             ],
             "_beatmapCharacteristicName": "Standard"
@@ -52,10 +45,10 @@
             "_difficultyBeatmaps": [
                 {
                     "_difficulty": "Expert",
-                    "_beatmapFilename": "OneSaberExpert.dat",
-                    "_difficultyRank": 7,
+                    "_noteJumpMovementSpeed": 0.0,
                     "_noteJumpStartBeatOffset": 0,
-                    "_noteJumpMovementSpeed": 0.0
+                    "_beatmapFilename": "OneSaberExpert.dat",
+                    "_difficultyRank": 7
                 }
             ],
             "_beatmapCharacteristicName": "OneSaber"
@@ -64,40 +57,47 @@
             "_difficultyBeatmaps": [
                 {
                     "_difficulty": "Easy",
-                    "_beatmapFilename": "NoArrowsEasy.dat",
-                    "_difficultyRank": 1,
+                    "_noteJumpMovementSpeed": 0.0,
                     "_noteJumpStartBeatOffset": 0,
-                    "_noteJumpMovementSpeed": 0.0
+                    "_beatmapFilename": "NoArrowsEasy.dat",
+                    "_difficultyRank": 1
                 },
                 {
                     "_difficulty": "Normal",
-                    "_beatmapFilename": "NoArrowsNormal.dat",
-                    "_difficultyRank": 3,
+                    "_noteJumpMovementSpeed": 0.0,
                     "_noteJumpStartBeatOffset": 0,
-                    "_noteJumpMovementSpeed": 0.0
+                    "_beatmapFilename": "NoArrowsNormal.dat",
+                    "_difficultyRank": 3
                 },
                 {
                     "_difficulty": "Hard",
-                    "_beatmapFilename": "NoArrowsHard.dat",
-                    "_difficultyRank": 5,
+                    "_noteJumpMovementSpeed": 0.0,
                     "_noteJumpStartBeatOffset": 0,
-                    "_noteJumpMovementSpeed": 0.0
+                    "_beatmapFilename": "NoArrowsHard.dat",
+                    "_difficultyRank": 5
                 },
                 {
                     "_difficulty": "Expert",
-                    "_beatmapFilename": "NoArrowsExpert.dat",
-                    "_difficultyRank": 7,
+                    "_noteJumpMovementSpeed": 0.0,
                     "_noteJumpStartBeatOffset": 0,
-                    "_noteJumpMovementSpeed": 0.0
+                    "_beatmapFilename": "NoArrowsExpert.dat",
+                    "_difficultyRank": 7
                 }
             ],
             "_beatmapCharacteristicName": "NoArrows"
         }
     ],
-    "_previewStartTime": 26.0,
-    "_songName": "Beat Saber",
-    "_songTimeOffset": 0.0,
-    "_levelAuthorName": "",
     "_songFilename": "song.ogg",
-    "_songSubName": ""
+    "_environmentName": "DefaultEnvironment",
+    "_songAuthorName": "Jaroslav Beck",
+    "_songName": "Beat Saber",
+    "_levelAuthorName": "",
+    "_songSubName": "",
+    "_songTimeOffset": 0.0,
+    "_previewDuration": 12.0,
+    "_shuffle": 0.0,
+    "_previewStartTime": 26.0,
+    "_shufflePeriod": 1.0,
+    "_beatsPerMinute": 166.0,
+    "_coverImageFilename": "cover.png"
 }

@@ -1,33 +1,33 @@
 {
+    "_version": "1.0.0",
+    "_previewDuration": 10,
     "_difficultyBeatmapSets": [
         {
             "_beatmapCharacteristicName": "Standard",
             "_difficultBeatmaps": [
                 {
                     "_difficulty": "Expert",
-                    "_beatmapFilename": "Expert.json",
-                    "_difficultyRank": 4,
                     "_customData": {
+                        "_warnings": [],
+                        "_suggestions": [],
+                        "_difficultyLabel": "",
                         "_editorOffset": 0,
                         "_information": [],
                         "_editorOldOffset": 0,
-                        "_requirements": [],
-                        "_difficultyLabel": "",
-                        "_warnings": [],
-                        "_suggestions": []
-                    }
+                        "_requirements": []
+                    },
+                    "_beatmapFilename": "Expert.json",
+                    "_difficultyRank": 4
                 }
             ]
         }
     ],
-    "_coverImagePath": "cover.jpg",
+    "_songFilename": "song.ogg",
     "_previewStartTime": 12,
-    "_beatsPerMinute": 120,
-    "_songName": "New Dawn",
     "_environmentName": "TriangleEnvironment",
     "_authorName": "Rustic",
-    "_songFilename": "song.ogg",
-    "_songSubName": "Prototyperaptor",
-    "_previewDuration": 10,
-    "_version": "1.0.0"
+    "_beatsPerMinute": 120,
+    "_songName": "New Dawn",
+    "_coverImagePath": "cover.jpg",
+    "_songSubName": "Prototyperaptor"
 }

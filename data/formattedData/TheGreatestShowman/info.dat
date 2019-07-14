@@ -1,0 +1,92 @@
+{
+    "_version": "2.0.0",
+    "_difficultyBeatmapSets": [
+        {
+            "_difficultyBeatmaps": [
+                {
+                    "_noteJumpStartBeatOffset": 0,
+                    "_difficulty": "Easy",
+                    "_customData": {
+                        "_warnings": [],
+                        "_suggestions": [],
+                        "_difficultyLabel": "",
+                        "_editorOffset": -50,
+                        "_information": [],
+                        "_editorOldOffset": -50,
+                        "_requirements": []
+                    },
+                    "_noteJumpMovementSpeed": 10,
+                    "_beatmapFilename": "Easy.dat",
+                    "_difficultyRank": 1
+                },
+                {
+                    "_noteJumpStartBeatOffset": 0,
+                    "_difficulty": "Normal",
+                    "_customData": {
+                        "_warnings": [],
+                        "_suggestions": [],
+                        "_difficultyLabel": "",
+                        "_editorOffset": -50,
+                        "_information": [],
+                        "_editorOldOffset": -50,
+                        "_requirements": []
+                    },
+                    "_noteJumpMovementSpeed": 10,
+                    "_beatmapFilename": "Normal.dat",
+                    "_difficultyRank": 3
+                },
+                {
+                    "_noteJumpStartBeatOffset": 0,
+                    "_difficulty": "Hard",
+                    "_customData": {
+                        "_warnings": [],
+                        "_suggestions": [],
+                        "_difficultyLabel": "",
+                        "_editorOffset": -50,
+                        "_information": [],
+                        "_editorOldOffset": -50,
+                        "_requirements": []
+                    },
+                    "_noteJumpMovementSpeed": 11,
+                    "_beatmapFilename": "Hard.dat",
+                    "_difficultyRank": 5
+                },
+                {
+                    "_noteJumpStartBeatOffset": 0,
+                    "_difficulty": "Expert",
+                    "_customData": {
+                        "_warnings": [],
+                        "_suggestions": [],
+                        "_difficultyLabel": "",
+                        "_editorOffset": -50,
+                        "_information": [],
+                        "_editorOldOffset": -50,
+                        "_requirements": []
+                    },
+                    "_noteJumpMovementSpeed": 12,
+                    "_beatmapFilename": "Expert.dat",
+                    "_difficultyRank": 7
+                }
+            ],
+            "_beatmapCharacteristicName": "Standard"
+        }
+    ],
+    "_songFilename": "Panic at the disco - The greatest show.egg",
+    "_customData": {
+        "_contributors": [],
+        "_customEnvironmentHash": "",
+        "_customEnvironment": ""
+    },
+    "_environmentName": "TriangleEnvironment",
+    "_songAuthorName": "Panic at the disco",
+    "_songName": "The greatest show reimagined",
+    "_levelAuthorName": "Stumi",
+    "_songSubName": "",
+    "_songTimeOffset": 0,
+    "_previewDuration": 10,
+    "_shuffle": 0,
+    "_previewStartTime": 105,
+    "_shufflePeriod": 0.5,
+    "_beatsPerMinute": 77,
+    "_coverImageFilename": "Greatest cover.jpg"
+}
