@@ -1,2 +1,2 @@
-tensorflow==1.12.0
+tensorflow==2.0.0
 librosa==0.7.0
