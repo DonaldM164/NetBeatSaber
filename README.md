@@ -4,7 +4,7 @@ The goal of this project is to create a recurrent nueral network that is trained
 Objective:
     - Create a recurrent neural network that generates beatmaps with a focus on interesting yet familiar block patterns. Tackling the generation of obstacles and light events will also lie within the scope of this project.
         
-    - Simplicity is key for the tool to be succesful, the user should only have to provide the song they wan't to generate a beatmap for and nothing more. The program should take care of the rest. 
+    - Simplicity is key for the tool to be succesful, the user should only have to provide the song they want to generate a beatmap for and nothing more. The program should take care of the rest. 
         
 
 
